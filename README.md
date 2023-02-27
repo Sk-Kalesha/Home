@@ -18,7 +18,7 @@ Features
 5. Delete items from the cart
 6. Clear the cart
 
-Click the below to have a look
+Click the below web link to have a look
 
 https://sk-kalesha.github.io/GourmetGardenPoc/home.html
 
