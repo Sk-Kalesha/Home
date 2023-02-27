@@ -6,7 +6,7 @@ It is a simple web application designed to help users easily browse and purchase
 
 Technologies Used
 
-HTML and CSS for the frontend
+HTML and CSS for the frontend,
 JavaScript for the frontend logic
 
 Features
