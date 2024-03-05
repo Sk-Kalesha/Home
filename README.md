@@ -20,5 +20,5 @@ Features
 
 Click the below web link to have a look
 
-https://sk-kalesha.github.io/GourmetGardenPoc/home.html
+https://kalesha-dev.github.io/GourmetGardenPoc/home.html
 
